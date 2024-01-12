@@ -3,4 +3,5 @@
 - keyboards.py - все клавиатуры
 - msgs.py - сообщения, которые выводит бот
 - func.py - пользоватлеьские функции для рассчета
+- statistic_module.py - функции для построения графиков
 - Hydrogen_production_projects.xlsx - набор данных (готовый к работе)
